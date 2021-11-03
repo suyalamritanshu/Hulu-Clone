@@ -1,3 +1,32 @@
+## Preview 
+
+![image](https://user-images.githubusercontent.com/72314518/140185854-c6648278-b22b-4419-9b97-1500bc5da136.png) ![image](https://user-images.githubusercontent.com/72314518/140185882-3b7952db-d921-4f89-b6f2-4be779ed7e8a.png)
+
+
+
+
+### Deployed at - https://hulu-clone-alpha-bay.vercel.app/
+
+## About 
+
+This app is a proper clone of the hulu app
+
+## Features - 
+
+1) This app is compatible for all type of screens including desktops, mobile, tablets, and event 4k screens which we see on lcd's etc.
+2) All this is achieved by tailwind css and next.js.
+3) The movies are fetching from the tmdb database which is the largest database for movies. The api's are public you can login and use it.
+4) Link to the tmdb database - https://www.themoviedb.org/
+5) This app is deployed on vercel which is recommended for deploying next.js.
+
+
+## Things you can take from this app - 
+
+1) Proper use of tailwind css with responsive screens and compatible for all types of users.
+2) Playing with the api's in next.js.
+3) If you want server-side rendering and generate static websites.
+4) Animations in tailwind css
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
